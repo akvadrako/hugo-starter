@@ -1,0 +1,6 @@
+domains:
+- hugo-starter-akvadrako.wasmer.app
+kind: wasmer.io/App.v0
+name: akvadrako-hugo-starter
+owner: akvadrako
+package: .
